@@ -2,7 +2,13 @@
 
 <h4>• Estudante de Ciência da Computação na Universidade FEI </h4>
 
-<p> Atualmente trabalho com desenvolvimento em sistemas de baixo código (Low-code), cuidando da parte de Banco de Dados (Mysql) e gerenciando as informações pelo servidor da plataforma Azure</p>
+<h4>Desenvolvedor Especialista em Low-Code e Gerenciamento de Banco de Dados</h4>
+
+Atuo como desenvolvedor focado em plataformas de baixo código (Low-Code), com especialização na gestão de bancos de dados MySQL. Minhas responsabilidades incluem a arquitetura e otimização de bases de dados, garantindo a integridade e a eficiência na manipulação das informações. Também sou responsável pela administração e configuração de servidores na plataforma Azure, assegurando a alta disponibilidade e a segurança das aplicações que suportam os processos de negócio.
+
+<h4>• Computer Science Student at FEI University</h4>
+Specialist Developer in Low-Code and Database Management
+I work as a developer focused on low-code platforms, specializing in MySQL database management. My responsibilities include the architecture and optimization of databases, ensuring data integrity and efficiency. I am also responsible for the administration and configuration of servers on the Azure platform, ensuring high availability and security for applications that support business processes.
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
