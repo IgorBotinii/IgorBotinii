@@ -2,6 +2,8 @@
 
 <h4>• Estudante de Ciência da Computação na Universidade FEI </h4>
 
+<p> Atualmente trabalho com desenvolvimento em sistemas de baixo código (Low-code), cuidando da parte de Banco de Dados (Mysql) e gerenciando as informações pelo servidor da plataforma Azure</p>
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
