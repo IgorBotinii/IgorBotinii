@@ -25,8 +25,8 @@ I work as a developer focused on low-code platforms, specializing in MySQL datab
   <a href = "mailto:igorbotinii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div style="display: inline_block"><br>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=IgorBotinii&show_icons=false&theme=dracula">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBotinii&theme=dracula">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=IgorBotinii&show_icons=false&theme=dracula">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBotinii&theme=dracula">
 </div>
 
 
