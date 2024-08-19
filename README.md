@@ -1,10 +1,5 @@
 ## Olá! Me chamo Igor Botini👋
 
-<h4>• Estudante de Ciência da Computação na Universidade FEI </h4>
-
-<h4>Desenvolvedor Especialista em Low-Code e Gerenciamento de Banco de Dados</h4>
-
-Atuo como desenvolvedor focado em plataformas de baixo código (Low-Code), com especialização na gestão de bancos de dados MySQL. Minhas responsabilidades incluem a arquitetura e otimização de bases de dados, garantindo a integridade e a eficiência na manipulação das informações. Também sou responsável pela administração e configuração de servidores na plataforma Azure, assegurando a alta disponibilidade e a segurança das aplicações que suportam os processos de negócio.
 
 <h4>• Computer Science Student at FEI University</h4>
 Specialist Developer in Low-Code and Database Management
