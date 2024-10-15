@@ -1,5 +1,6 @@
    <h1 align="center"> Hi, I'm Igor Botini💻📈</h1>
 
+## About Me :wave:
 
 <h4>• Computer Science Student at FEI University</h4>
 Specialist Developer in Low-Code and Database Management
