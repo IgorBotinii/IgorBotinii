@@ -1,4 +1,4 @@
-   ##             Hi, I'm Igor Botini💻📈
+   <h1 align="center"> Hi, I'm Igor Botini💻📈</h1>
 
 
 <h4>• Computer Science Student at FEI University</h4>
