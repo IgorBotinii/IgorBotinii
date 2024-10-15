@@ -6,6 +6,11 @@
 Specialist Developer in Low-Code and Database Management
 I work as a developer focused on low-code platforms, specializing in MySQL database management. My responsibilities include the architecture and optimization of databases, ensuring data integrity and efficiency. I am also responsible for the administration and configuration of servers on the Azure platform, ensuring high availability and security for applications that support business processes.
 
+
+ ## My Skills
+
+ **Applications**
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
