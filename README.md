@@ -19,7 +19,7 @@ I work as a developer focused on low-code platforms, specializing in MySQL datab
   <img align="center" alt="Igor-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Igor-azure" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
 
-
+ ## Contacts
   
 </div>
 <br>
