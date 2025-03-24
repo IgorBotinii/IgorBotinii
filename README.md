@@ -1,37 +1,63 @@
-   <h1 align="center"> Hi, I'm Igor Botini💻📈</h1>
+<h1 align="center">🚀 Hi, I'm <strong>Igor Botini</strong> 💻📈</h1>
 
-## About Me :wave:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=440&lines=Computer+Science+Student+%F0%9F%93%9D;Low-Code+Developer+%F0%9F%94%A7;MySQL+and+Azure+Specialist+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+%F0%9F%93%96" alt="Typing SVG" />
+</p>
 
-<h4>• Computer Science Student at FEI University</h4>
-Specialist Developer in Low-Code and Database Management
-I work as a developer focused on low-code platforms, specializing in MySQL database management. My responsibilities include the architecture and optimization of databases, ensuring data integrity and efficiency. I am also responsible for the administration and configuration of servers on the Azure platform, ensuring high availability and security for applications that support business processes.
+---
 
+## 👨‍💻 About Me
 
- ## My Skills
+🎓 **Computer Science Student** at **FEI University**  
+🧠 **Low-Code Developer | MySQL Database Specialist**  
+☁️ **Azure Cloud Administrator**  
+🔐 Focused on **performance**, **data integrity**, and **application security**  
+📈 Passionate about technology, innovation, and solving real-world problems through code
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="Igor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
-  <img align="center" alt="Igor-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="Igor-azure" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+---
 
- ## Contacts
-  
-</div>
-<br>
- 
-<div> 
-  <a href="https://instagram.com/Igor_Botini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-  <a href = "https://www.linkedin.com/in/igor-botini-da-silva-1726652ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-  <a href = "mailto:igorbotinii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<div style="display: inline_block"><br>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=IgorBotinii&show_icons=false&theme=dracula">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBotinii&theme=dracula">
+## 💡 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=IgorBotinii&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true&include_all_commits=true" alt="Igor's GitHub Stats"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBotinii&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-botini-da-silva-1726652ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/Igor_Botini" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:igorbotinii@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Quote That Inspires Me
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+---
 
